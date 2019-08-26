@@ -1,0 +1,69 @@
+﻿body{
+    background-color:gray;
+}
+
+.Button {
+    background-color: green;
+    color: black;
+    margin:40px;
+    height: 150px;
+    width: 150px;
+    font-size:50px;
+}
+
+body:hover {
+    background-color:lightsalmon;
+}
+
+.Warning {
+   font-size:60px;
+   color: red;
+}
+.WarningButton{
+    height:40px;
+    width:80px;
+} 
+
+.ButtonPanel{
+    float:right;
+    position: relative;
+    text-align: left;
+    border-top: groove 20px orange;
+    border-bottom:ridge 20px yellow;
+    border-left: groove 50px darkgoldenrod;
+}
+
+.WinNotification{
+    color:blue;
+    font-size:100px;
+    align-content: center;
+    position:inherit;
+    background-color:fuchsia;
+
+}
+
+.NewGameButton{
+    background-color:darkkhaki;
+    color: black;
+    font-size:30px;
+    border: solid 10px red;
+    float:left;
+    position:relative;
+}
+
+header{
+    color:olive;
+    border: dotted 15px crimson;
+    background-color:gold;
+    text-align:center;
+    font-size:x-large;
+}
+
+.cssimage{
+    float:left;
+    position: center;
+}
+.cssimageconfetti{
+    float:left;
+    position: center;
+}
